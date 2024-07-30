@@ -390,6 +390,7 @@ import * as floki from './floki';
 import * as hatsProtocolHatId from './hats-protocol-hat-id';
 import * as hatsProtocolHatIds from './hats-protocol-hat-ids';
 import * as bubblegumKids from './bubblegum-kids';
+import * as bcutDelegation from './bcut-delegation';
 import * as clipperStakedSail from './clipper-staked-sail';
 import * as plearn from './plearn';
 import * as snote from './snote';
@@ -840,6 +841,7 @@ const strategies = {
   'hats-protocol-hat-id': hatsProtocolHatId,
   'hats-protocol-hat-ids': hatsProtocolHatIds,
   'bubblegum-kids': bubblegumKids,
+  'bcut-delegation': bcutDelegation,
   'clipper-staked-sail': clipperStakedSail,
   plearn,
   snote,
