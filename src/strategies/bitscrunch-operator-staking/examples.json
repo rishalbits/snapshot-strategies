@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "bitscrunch-operator-staking",
+      "params": {
+        "address": "0xdc244B6fC651Af077e64F1277Ba0b5159dE6383E"
+      }
+    },
+    "network": "137",
+    "addresses": [
+      "0x38891261AE980056ad5579D359d2D44434E172F8",
+      "0xbB571366E51D3e9DC0fC2395b7607B98EEa724B1",
+      "0xB4084F25DfCb2c1bf6636b420b59eda807953769",
+      "0x376ca6892Ab19bFd90515257B5F6b31561C300aa",
+      "0xA585509aaF2075095b19533aFAC9512c24B1BE5C",
+      "0x386bA969Ed194A469c6Ebb5E5FBAccC7F677eAD1",
+      "0x869924A4148741D3887AC43e89b0A8E396D2870a",
+      "0xe2F8CeFcDee51F48e3CE5c4Deea3095c43369b36",
+      "0x603De3467C63A17C147ae83D58c33cD3E580502f",
+      "0x504C6A8433A2c43b80aE73E6BBe6a891d92470Cc"
+    ],
+    "snapshot": 59947800
+  }
+]
