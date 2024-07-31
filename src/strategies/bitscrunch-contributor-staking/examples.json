@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "bitscrunch-contributor-staking",
+      "params": {
+        "address": "0xDf9F850F0c27E5305Ad084B729dDC099A3D3640D"
+      }
+    },
+    "network": "137",
+    "addresses": [
+      "0x2015E7cD1bfEb99956C7c6C6362fcb0E39E3c5A6",
+      "0xFD2598612731BAa88f258Ee7c5Bb8Ec3BE23e616",
+      "0x8DE2700195116fad5773acBd144CA4db3982ca6d",
+      "0xAbA5dc85BF349C0B9FFE3154e01c59211df0E868",
+      "0x5cE394B7519cF204156fEB89B89b77320ed6F9fd",
+      "0x28A6C9Fab26981bAf7aAFe34A7bAA72CB6Bb0eEc",
+      "0x74e74c8515DFa0BaD24B46cDf12658fB4232E2B0",
+      "0x88D91d9A0686f51EED92B182a28CA3bDe0d55eb8",
+      "0xbB571366E51D3e9DC0fC2395b7607B98EEa724B1",
+      "0xA6D52E9E7974A288Db01796A981605eCF783c98a"
+    ],
+    "snapshot": 59947800
+  }
+]
