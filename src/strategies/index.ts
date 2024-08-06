@@ -390,6 +390,7 @@ import * as floki from './floki';
 import * as hatsProtocolHatId from './hats-protocol-hat-id';
 import * as hatsProtocolHatIds from './hats-protocol-hat-ids';
 import * as bubblegumKids from './bubblegum-kids';
+import * as bitscrunchStaking from './bitscrunch-staking';
 import * as bitscrunchDelegation from './bitscrunch-delegation';
 import * as bitscrunchContributorStaking from './bitscrunch-contributor-staking';
 import * as bitscrunchOperatorStaking from './bitscrunch-operator-staking';
@@ -843,6 +844,7 @@ const strategies = {
   'hats-protocol-hat-id': hatsProtocolHatId,
   'hats-protocol-hat-ids': hatsProtocolHatIds,
   'bubblegum-kids': bubblegumKids,
+  'bitscrunch-staking': bitscrunchStaking,
   'bitscrunch-delegation': bitscrunchDelegation,
   'bitscrunch-contributor-staking': bitscrunchContributorStaking,
   'bitscrunch-operator-staking': bitscrunchOperatorStaking,
